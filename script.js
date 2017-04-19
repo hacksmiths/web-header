@@ -4,15 +4,19 @@ var hacksmithsData = [
     url: "http://goldsmiths.tech"
   },
   {
-    name: "Weekly Events",
+    name: "Cond & Craft (Weekly)",
     url: "http://facebook.com/hacksmiths/events"
   },
   {
-    name: "Anvil Hack",
+    name: "Anvil Hack (April)",
     url: "http://anvil.goldsmiths.tech"
   },
   {
-    name: "Sex Tech Hack",
+    name: "Non Binary in Tech (July)",
+    url: "http://nonbinary.tech"
+  },
+  {
+    name: "Sex Tech Hack (December)",
     url: "http://sexhack.tech"
   }
 ];
