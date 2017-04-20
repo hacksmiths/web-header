@@ -4,7 +4,7 @@ var hacksmithsData = [
     url: "http://goldsmiths.tech"
   },
   {
-    name: "Cond & Craft (Weekly)",
+    name: "Code & Craft (Weekly)",
     url: "http://facebook.com/hacksmiths/events"
   },
   {
