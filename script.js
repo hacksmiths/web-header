@@ -4,10 +4,6 @@ var hacksmithsData = [
     url: "http://goldsmiths.tech"
   },
   {
-    name: "Code & Craft",
-    url: "http://facebook.com/hacksmiths/events"
-  },
-  {
     name: "Anvil Hack",
     url: "http://anvil.goldsmiths.tech"
   },
@@ -18,6 +14,10 @@ var hacksmithsData = [
   {
     name: "Non Binary in Tech",
     url: "http://nonbinary.tech"
+  },
+  {
+    name: "UKGovHack",
+    url: "http://ukgovhack.com"
   }
 ];
 
